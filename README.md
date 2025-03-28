@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/87b31541-a77d-4e55-aa55-9bbb63b58e99)
+[![Run App Konzem, Cougar](https://github.com/ckonzem/GithubActions/actions/workflows/ci.yml/badge.svg)](https://github.com/ckonzem/GithubActions/actions/workflows/ci.yml)
 
 
 # Do not submit a pull request to `kgerot/GithubActions` or `dteske/TraviCI`. Not following this instruction can ruin the lab for others, so pay attention.
