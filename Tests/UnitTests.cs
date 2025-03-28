@@ -30,7 +30,7 @@ public class Addition
 	[TestMethod]
 	public void Subtract_Valid_Konzem()
     {
-        Assert.AreEqual(0, Program.Subtract("3", "2"));
+        Assert.AreEqual(1, Program.Subtract("3", "2"));
         Assert.AreEqual(2, Program.Subtract("5", "3"));
         Assert.AreEqual(3, Program.Subtract("10", "7"));
     }	
